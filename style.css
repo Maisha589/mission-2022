@@ -10,6 +10,9 @@ font-family: 'Roboto Condensed', sans-serif;}
     margin-top: 50;
 
 }
+small{
+    color: #D2B4DE ;
+}
 .future{
     padding-left: 4%;
 }
@@ -32,7 +35,8 @@ span{
     border-left:#DE3163 solid ;
     padding-left: 7px;
 }
-.button {text-decoration: none;
+.button {
+    text-decoration: none;
 background-image: linear-gradient(#DE3163 , #F5B7B1 );
 padding: 10px 10px;
 color: whitesmoke;
@@ -50,7 +54,7 @@ border-radius: 7px;}
    
 }
 .box-2{
-    background-color: #F5B7B1 ;
+    background-color: B1#F5B7 ;
     border-radius: 7%;
     
     width: 30%;
