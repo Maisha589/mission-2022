@@ -17,7 +17,7 @@ small{
     padding-left: 4%;
 }
 section{
-    padding-bottom: 2%;
+    padding-bottom: 3%;
 }
 .about{
     padding-right: 10%;
@@ -93,10 +93,10 @@ height: 30%;
 }
 #last{
 font-family: "Knewave";
-color: wheat;
+color: white;
 }
 #finish{
-    background-color: #566573;
+    background-color: black;
     padding-left: 400px;
     padding-right: 400px;
     border-radius: 5%;
